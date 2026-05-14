@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 56e771bcc7423944f95a5f3510e42f1f, type: 3}
+  m_Name: Tree
+  m_EditorClassIdentifier: Assembly-CSharp::Structure
+  <ID>k__BackingField: 0
+  <Name>k__BackingField: Tree
+  <MaxHealth>k__BackingField: 5
+  <Tool>k__BackingField: 0
+  <Drops>k__BackingField:
+  - <EntryItem>k__BackingField: {fileID: 11400000, guid: 2b0e59fff7f3c0e4f8cd2853cd96bb54, type: 2}
+    <Count>k__BackingField: 2

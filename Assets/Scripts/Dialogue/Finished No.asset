@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d1d7106661e24e9f8b68b2d3b0c4487, type: 3}
+  m_Name: Finished No
+  m_EditorClassIdentifier: Assembly-CSharp::Dialogue
+  choices:
+  - {fileID: 11400000, guid: 9775e4ee8fac44a919dfd967612acdf1, type: 2}
+  optionName: No
+  dialogueText: I don't believe you. You do love me. Let's get married.
