@@ -12,7 +12,7 @@ E to interact with the NPC
 
 I to open the inventory
 ## Build Instructions
-Clone the repository into an existing Unity project and build!
+Download the Builds folder and run the CS4700_SurvivalGame executable!
 ## Asset Attributions
 https://assetstore.unity.com/packages/3d/environments/3d-ground-platforms-platform-terrain-set-floating-islandas-258146
 
